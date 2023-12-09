@@ -1,0 +1,638 @@
+repo_name: TawandaMavondo/flutter_architecture_samples
+report_id: 3a41a60752af15a1fdffa246d7db3c78
+repo_type: Public
+timestamp: '2023-12-09T20:11:14+00:00'
+requested_by: brianegan
+provider: github
+branch: master
+detected_tools_count: 52
+tools:
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: todos_app_core/pubspec.yaml
+  last_updated_by: Drew Cain
+  last_updated_on: 2019-02-01 16:46:14.000000000 Z
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: Repo Metadata
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: '28.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/vanilla/android/app/build.gradle
+  detection_source: vanilla/android/app/build.gradle
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 20:32:16.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source: bloc_flutter/ios/Podfile
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 20:32:16.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.0.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firestore_redux/pubspec.yaml
+  detection_source: firestore_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-07 10:29:51.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source: bloc_flutter/android/app/build.gradle
+  last_updated_by: Brian Egan
+  last_updated_on: 2018-04-13 22:13:54.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: ".travis.yml"
+  last_updated_by: MELLATI Fatah
+  last_updated_on: 2020-01-13 15:37:31.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: todos_app_core/pubspec.yaml
+  last_updated_by: Drew Cain
+  last_updated_on: 2019-02-01 16:46:14.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  version: '9.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/vanilla/android/app/build.gradle
+  detection_source: vanilla/android/app/build.gradle
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 20:32:16.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source: redux/ios/Podfile.lock
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-11 12:41:28.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: bloc_flutter/web/index.html
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 00:31:28.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: test
+  website_url: test
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5477/no-img-open-source.png
+  detection_source: bloc_flutter/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 13:10:52.000000000 Z
+- name: bloc_test
+  description: A testing library which makes it easy to test blocs
+  package_url: https://pub.dartlang.org/bloc_test
+  version: 3.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
+  detection_source: bloc_library/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 20:32:16.000000000 Z
+- name: build
+  description: A package for authoring build_runner compatible code generators
+  package_url: https://pub.dartlang.org/build
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: built_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 15:17:34.000000000 Z
+- name: build_runner
+  description: A build system for Dart code generation and modular compilation
+  package_url: https://pub.dartlang.org/build_runner
+  version: 1.7.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
+  detection_source: built_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 15:17:34.000000000 Z
+- name: built_collection
+  description: Immutable collections based on the SDK collections
+  package_url: https://pub.dartlang.org/built_collection
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mvu/pubspec.yaml
+  detection_source: built_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 15:17:34.000000000 Z
+- name: built_redux
+  description: A state management library written in dart that enforces immutability
+  package_url: https://pub.dartlang.org/built_redux
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: built_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 15:17:34.000000000 Z
+- name: built_value
+  description: Value types with builders, Dart classes as enums, and serialization
+  package_url: https://pub.dartlang.org/built_value
+  version: 6.3.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mvu/pubspec.yaml
+  detection_source: built_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 15:17:34.000000000 Z
+- name: built_value_generator
+  description: Value types with builders, Dart classes as enums, and serialization
+  package_url: https://pub.dartlang.org/built_value_generator
+  version: 6.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mvu/pubspec.yaml
+  detection_source: built_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 15:17:34.000000000 Z
+- name: cloud_firestore
+  description: Flutter plugin for Cloud Firestore
+  package_url: https://pub.dartlang.org/cloud_firestore
+  version: 0.13.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firebase_flutter_repository/pubspec.yaml
+  detection_source: firebase_flutter_repository/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 20:32:16.000000000 Z
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 0.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/integration_tests/pubspec.yaml
+  detection_source: integration_tests/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2017-11-05 20:39:41.000000000 Z
+- name: equatable
+  description: A Dart package that helps to implement value based equality without
+    needing to explicitly override == and hashCode
+  package_url: https://pub.dartlang.org/equatable
+  version: 1.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
+  detection_source: bloc_library/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 20:32:16.000000000 Z
+- name: firebase_auth
+  description: Flutter plugin for Firebase Auth
+  package_url: https://pub.dartlang.org/firebase_auth
+  version: 0.15.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firebase_flutter_repository/pubspec.yaml
+  detection_source: firebase_flutter_repository/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 20:32:16.000000000 Z
+- name: firebase_database
+  description: Flutter plugin for Firebase Database
+  package_url: https://pub.dartlang.org/firebase_database
+  version: 3.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firebase_rtdb_flutter_repository/pubspec.yaml
+  detection_source: firebase_rtdb_flutter_repository/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-08 19:07:55.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: bloc_flutter/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 00:31:28.000000000 Z
+- name: flutter_bloc
+  description: Flutter Widgets that make it easy to implement the BLoC
+  package_url: https://pub.dartlang.org/flutter_bloc
+  version: 3.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
+  detection_source: bloc_library/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-11 02:19:01.000000000 Z
+- name: flutter_built_redux
+  description: Built_redux provider for Flutter
+  package_url: https://pub.dartlang.org/flutter_built_redux
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: built_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 15:17:34.000000000 Z
+- name: flutter_mobx
+  description: Flutter integration for MobX
+  package_url: https://pub.dartlang.org/flutter_mobx
+  version: 0.3.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
+  detection_source: mobx/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-09 20:40:43.000000000 Z
+- name: flutter_redux
+  description: A set of utility Widgets that Provide and Connect to a Redux Store
+  package_url: https://pub.dartlang.org/flutter_redux
+  version: 0.6.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firestore_redux/pubspec.yaml
+  detection_source: firestore_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-07 10:29:51.000000000 Z
+- name: frideos
+  description: An all-in-one package for state management
+  package_url: https://pub.dartlang.org/frideos
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/frideos_library/pubspec.yaml
+  detection_source: frideos_library/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 20:32:16.000000000 Z
+- name: intl
+  description: Contains code to deal with internationalized/localized messages
+  package_url: https://pub.dartlang.org/intl
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: todos_app_core/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 12:38:25.000000000 Z
+- name: intl_translation
+  description: Contains code to deal with internationalized/localized messages
+  package_url: https://pub.dartlang.org/intl_translation
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: todos_app_core/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 12:38:25.000000000 Z
+- name: meta
+  description: Annotations used to express developer intentions that can't otherwise
+    be deduced by statically analyzing source code
+  package_url: https://pub.dartlang.org/meta
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
+  detection_source: bloc_library/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 20:32:16.000000000 Z
+- name: mobx
+  description: MobX is a library for reactively managing the state of your applications
+  package_url: https://pub.dartlang.org/mobx
+  version: 0.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
+  detection_source: mobx/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-07 17:10:22.000000000 Z
+- name: mobx_codegen
+  description: Code generator for MobX that adds support for annotating your code
+    with @observable
+  package_url: https://pub.dartlang.org/mobx_codegen
+  version: 0.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
+  detection_source: mobx/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-07 17:10:22.000000000 Z
+- name: mockito
+  description: A mock framework inspired by Mockito with APIs for Fakes
+  package_url: https://pub.dartlang.org/mockito
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: bloc_flutter/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 13:10:52.000000000 Z
+- name: mvc_pattern
+  description: To develop apps using a framework following the MVC design pattern
+    separating the app's 'interface' from its 'business logic' and from its 'data
+    source'
+  package_url: https://pub.dartlang.org/mvc_pattern
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: mvc/pubspec.yaml
+  last_updated_by: Maurice McCabe
+  last_updated_on: 2019-11-10 23:54:51.000000000 Z
+- name: provider
+  description: A wrapper around InheritedWidget to make them easier to use and more
+    reusable
+  package_url: https://pub.dartlang.org/provider
+  version: 4.0.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/change_notifier_provider/pubspec.yaml
+  detection_source: change_notifier_provider/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-02-20 15:01:57.000000000 Z
+- name: redux
+  description: Redux is a predictable state container for Dart and Flutter apps
+  package_url: https://pub.dartlang.org/redux
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firestore_redux/pubspec.yaml
+  detection_source: firestore_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-07 10:29:51.000000000 Z
+- name: rxdart
+  description: RxDart is an implementation of the popular reactiveX api for asynchronous
+    programming
+  package_url: https://pub.dartlang.org/rxdart
+  version: 0.23.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/pubspec.yaml
+  detection_source: bloc_flutter/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 20:32:16.000000000 Z
+- name: scoped_model
+  description: A Widget that passes a Reactive Model to all of it's children
+  package_url: https://pub.dartlang.org/scoped_model
+  version: 1.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/scoped_model/pubspec.yaml
+  detection_source: scoped_model/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 18:13:31.000000000 Z
+- name: source_gen
+  description: Source code generation builders and utilities for the Dart build system
+  package_url: https://pub.dartlang.org/source_gen
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: built_redux/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-10 15:17:34.000000000 Z
+- name: states_rebuilder
+  description: A simple yet powerful state management technique for Flutter
+  package_url: https://pub.dartlang.org/states_rebuilder
+  version: 1.11.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/states_rebuilder/pubspec.yaml
+  detection_source: states_rebuilder/pubspec.yaml
+  last_updated_by: MELLATI Fatah
+  last_updated_on: 2020-01-12 21:19:25.000000000 Z
+- name: test
+  description: A full featured library for writing and running Dart tests across platforms
+  package_url: https://pub.dartlang.org/test
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: bloc_flutter/pubspec.yaml
+  last_updated_by: Brian Egan
+  last_updated_on: 2020-01-05 13:10:52.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.12'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/android/app/build.gradle
+  detection_source: bloc_flutter/android/app/build.gradle
+  last_updated_by: Brian Egan
+  last_updated_on: 2018-08-30 14:48:44.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
+  description: Kotlin Standard Library JDK 7 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: bloc_flutter/android/app/build.gradle
+  last_updated_by: Maurice McCabe
+  last_updated_on: 2019-11-10 23:54:51.000000000 Z
