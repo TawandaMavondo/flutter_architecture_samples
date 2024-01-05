@@ -1,7 +1,8 @@
 repo_name: TawandaMavondo/flutter_architecture_samples
 report_id: 3a41a60752af15a1fdffa246d7db3c78
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T20:11:14+00:00'
+timestamp: '2024-01-05T08:27:26+00:00'
 requested_by: brianegan
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/todos_app_core/pubspec.yaml
   detection_source: todos_app_core/pubspec.yaml
   last_updated_by: Drew Cain
   last_updated_on: 2019-02-01 16:46:14.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -57,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -67,6 +73,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -78,7 +85,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/vanilla/android/app/build.gradle
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/vanilla/android/app/build.gradle
   detection_source: vanilla/android/app/build.gradle
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 20:32:16.000000000 Z
@@ -91,6 +98,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/ios/Podfile
   detection_source: bloc_flutter/ios/Podfile
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 20:32:16.000000000 Z
@@ -103,7 +111,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/4074/13142323.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firestore_redux/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firestore_redux/pubspec.yaml
   detection_source: firestore_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-07 10:29:51.000000000 Z
@@ -115,6 +123,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -125,6 +134,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/android/app/build.gradle
   detection_source: bloc_flutter/android/app/build.gradle
   last_updated_by: Brian Egan
   last_updated_on: 2018-04-13 22:13:54.000000000 Z
@@ -137,6 +147,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: MELLATI Fatah
   last_updated_on: 2020-01-13 15:37:31.000000000 Z
@@ -148,6 +159,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/todos_app_core/pubspec.yaml
   detection_source: todos_app_core/pubspec.yaml
   last_updated_by: Drew Cain
   last_updated_on: 2019-02-01 16:46:14.000000000 Z
@@ -160,7 +172,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/vanilla/android/app/build.gradle
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/vanilla/android/app/build.gradle
   detection_source: vanilla/android/app/build.gradle
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 20:32:16.000000000 Z
@@ -172,6 +184,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/redux/ios/Podfile.lock
   detection_source: redux/ios/Podfile.lock
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-11 12:41:28.000000000 Z
@@ -181,6 +194,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/web/index.html
   detection_source: bloc_flutter/web/index.html
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 00:31:28.000000000 Z
@@ -193,12 +207,14 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples
   detection_source: Repo Metadata
 - name: test
   website_url: test
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5477/no-img-open-source.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/pubspec.yaml
   detection_source: bloc_flutter/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 13:10:52.000000000 Z
@@ -211,7 +227,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
   detection_source: bloc_library/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 20:32:16.000000000 Z
@@ -223,6 +239,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/built_redux/pubspec.yaml
   detection_source: built_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 15:17:34.000000000 Z
@@ -235,7 +252,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
   detection_source: built_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 15:17:34.000000000 Z
@@ -248,7 +265,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mvu/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mvu/pubspec.yaml
   detection_source: built_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 15:17:34.000000000 Z
@@ -260,6 +277,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/built_redux/pubspec.yaml
   detection_source: built_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 15:17:34.000000000 Z
@@ -272,7 +290,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mvu/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mvu/pubspec.yaml
   detection_source: built_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 15:17:34.000000000 Z
@@ -285,7 +303,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mvu/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mvu/pubspec.yaml
   detection_source: built_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 15:17:34.000000000 Z
@@ -298,7 +316,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firebase_flutter_repository/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firebase_flutter_repository/pubspec.yaml
   detection_source: firebase_flutter_repository/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 20:32:16.000000000 Z
@@ -311,7 +329,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/integration_tests/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/integration_tests/pubspec.yaml
   detection_source: integration_tests/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2017-11-05 20:39:41.000000000 Z
@@ -325,7 +343,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
   detection_source: bloc_library/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 20:32:16.000000000 Z
@@ -338,7 +356,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firebase_flutter_repository/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firebase_flutter_repository/pubspec.yaml
   detection_source: firebase_flutter_repository/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 20:32:16.000000000 Z
@@ -351,7 +369,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firebase_rtdb_flutter_repository/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firebase_rtdb_flutter_repository/pubspec.yaml
   detection_source: firebase_rtdb_flutter_repository/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-08 19:07:55.000000000 Z
@@ -363,6 +381,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/pubspec.yaml
   detection_source: bloc_flutter/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 00:31:28.000000000 Z
@@ -375,7 +394,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
   detection_source: bloc_library/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-11 02:19:01.000000000 Z
@@ -387,6 +406,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/built_redux/pubspec.yaml
   detection_source: built_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 15:17:34.000000000 Z
@@ -399,7 +419,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
   detection_source: mobx/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-09 20:40:43.000000000 Z
@@ -412,7 +432,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firestore_redux/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firestore_redux/pubspec.yaml
   detection_source: firestore_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-07 10:29:51.000000000 Z
@@ -425,7 +445,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/frideos_library/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/frideos_library/pubspec.yaml
   detection_source: frideos_library/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 20:32:16.000000000 Z
@@ -437,6 +457,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/todos_app_core/pubspec.yaml
   detection_source: todos_app_core/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 12:38:25.000000000 Z
@@ -448,6 +469,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/todos_app_core/pubspec.yaml
   detection_source: todos_app_core/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 12:38:25.000000000 Z
@@ -461,7 +483,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_library/pubspec.yaml
   detection_source: bloc_library/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 20:32:16.000000000 Z
@@ -474,7 +496,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
   detection_source: mobx/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-07 17:10:22.000000000 Z
@@ -488,7 +510,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mobx/pubspec.yaml
   detection_source: mobx/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-07 17:10:22.000000000 Z
@@ -500,6 +522,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/pubspec.yaml
   detection_source: bloc_flutter/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 13:10:52.000000000 Z
@@ -513,6 +536,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/mvc/pubspec.yaml
   detection_source: mvc/pubspec.yaml
   last_updated_by: Maurice McCabe
   last_updated_on: 2019-11-10 23:54:51.000000000 Z
@@ -526,7 +550,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/change_notifier_provider/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/change_notifier_provider/pubspec.yaml
   detection_source: change_notifier_provider/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-02-20 15:01:57.000000000 Z
@@ -539,7 +563,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firestore_redux/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/firestore_redux/pubspec.yaml
   detection_source: firestore_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-07 10:29:51.000000000 Z
@@ -553,7 +577,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/pubspec.yaml
   detection_source: bloc_flutter/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 20:32:16.000000000 Z
@@ -566,7 +590,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/scoped_model/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/scoped_model/pubspec.yaml
   detection_source: scoped_model/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 18:13:31.000000000 Z
@@ -578,6 +602,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/built_redux/pubspec.yaml
   detection_source: built_redux/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-10 15:17:34.000000000 Z
@@ -590,7 +615,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/states_rebuilder/pubspec.yaml
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/states_rebuilder/pubspec.yaml
   detection_source: states_rebuilder/pubspec.yaml
   last_updated_by: MELLATI Fatah
   last_updated_on: 2020-01-12 21:19:25.000000000 Z
@@ -602,6 +627,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/pubspec.yaml
   detection_source: bloc_flutter/pubspec.yaml
   last_updated_by: Brian Egan
   last_updated_on: 2020-01-05 13:10:52.000000000 Z
@@ -614,7 +640,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/android/app/build.gradle
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/android/app/build.gradle
   detection_source: bloc_flutter/android/app/build.gradle
   last_updated_by: Brian Egan
   last_updated_on: 2018-08-30 14:48:44.000000000 Z
@@ -633,6 +659,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples/blob/master/bloc_flutter/android/app/build.gradle
   detection_source: bloc_flutter/android/app/build.gradle
   last_updated_by: Maurice McCabe
   last_updated_on: 2019-11-10 23:54:51.000000000 Z
