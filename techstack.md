@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TawandaMavondo/flutter_architecture_samples](https://github.com/TawandaMavondo/flutter_architecture_samples)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|52<br/>Tools used|12/09/23 <br/>Report generated|
+|52<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
