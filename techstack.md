@@ -3,19 +3,19 @@
 ## Tech Stack
 TawandaMavondo/flutter_architecture_samples is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Ruby](https://www.ruby-lang.org) – Languages
+- [Dart](https://www.dartlang.org/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Kotlin](https://kotlinlang.org/) – Languages
 - [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [Swift](https://developer.apple.com/swift/) – Languages
 - [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Dart](https://www.dartlang.org/) – Languages
-- [Kotlin](https://kotlinlang.org/) – Languages
-- [Redux](https://redux.js.org/) – State Management Library
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [Flutter](https://flutter.io/) – Cross-Platform Mobile Development
-- [Android OS](https://www.android.com) – Operating Systems
+- [Redux](https://redux.js.org/) – State Management Library
+- [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Android OS](https://www.android.com) – Operating Systems
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -25,19 +25,19 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 TawandaMavondo/flutter_architecture_samples is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1646/Twitter-02.png' alt='Dart'/> [Dart](https://www.dartlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1646/Twitter-02.png' alt='Dart'/> [Dart](https://www.dartlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4074/13142323.png' alt='Redux'/> [Redux](https://redux.js.org/) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/7180/flutter-mark-square-100.png' alt='Flutter'/> [Flutter](https://flutter.io/) – Cross-Platform Mobile Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/4074/13142323.png' alt='Redux'/> [Redux](https://redux.js.org/) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TawandaMavondo/flutter_architecture_samples](https://github.com/TawandaMavondo/flutter_architecture_samples)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|52<br/>Tools used|01/05/24 <br/>Report generated|
+|52<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
