@@ -2,7 +2,7 @@ repo_name: TawandaMavondo/flutter_architecture_samples
 report_id: 3a41a60752af15a1fdffa246d7db3c78
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:27:26+00:00'
+timestamp: '2024-02-29T18:59:39+00:00'
 requested_by: brianegan
 provider: github
 branch: master
@@ -65,7 +65,7 @@ tools:
   detection_source_url: https://github.com/TawandaMavondo/flutter_architecture_samples
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
